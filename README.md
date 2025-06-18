@@ -59,13 +59,10 @@ Aplicación Android desarrollada en **Kotlin** que consume una API REST para mos
 app/
 ├── src/main/java/com/apellido/nombre/laboratoriocalificado03/
 │   ├── Ejercicio01.kt                 # Activity principal
-│   ├── models/
-│   │   ├── Teacher.kt                 # Modelo de datos del profesor
-│   │   └── TeacherResponse.kt         # Modelo de respuesta de la API
-│   ├── adapters/
-│   │   └── TeacherAdapter.kt          # Adaptador del RecyclerView
-│   └── network/
-│       └── RetrofitInstance.kt        # Configuración de Retrofit
+│   ├── Teacher.kt                 # Modelo de datos del profesor
+│   ├── TeacherResponse.kt         # Modelo de respuesta de la API
+│   ├── TeacherAdapter.kt          # Adaptador del RecyclerView
+│   ├── RetrofitInstance.kt        # Configuración de Retrofit
 ├── src/main/res/
 │   ├── layout/
 │   │   ├── activity_ejercicio01.xml   # Layout principal
