@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabortaorioCalificado03</string>
+    <string name="teacher_image">Teacher Image</string>
+    <string name="teacher_name">%1$s %2$s</string>
+    <string name="teacher_call">Call Teacher</string>
+    <string name="teacher_email">Send Email</string>
+</resources>
